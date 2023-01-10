@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "title":"Cap",
+        "price":300,
+        "image":"https://cdn.myikas.com/images/6d452771-fa42-482d-a9a5-b47e65a5bf47/e5989274-bdb9-4c1f-822f-ed8cef0ae55f/image_1080.webp"
+    },
+    {
+        "id":2,
+        "title":"Phone",
+        "price":2000,
+        "image":"https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mpv03tua-apple-iphone-14-128gb-mor-mpv03tua-637986816787921486.jpg"
+    },
+    {
+        "id":3,
+        "title":"Headphone",
+        "price":1000,
+        "image":"https://www.jabra.com/-/media/Images/Products/Jabra-Elite-45h/Product/elite_45e_black_1.png?la=en&hash=A85C4F3F4F1EC7C4A288352865FEF834D32F8EE4"
+    },
+    {
+        "id":4,
+        "title":"Drill",
+        "price":200,
+        "image":"https://productimages.hepsiburada.net/s/121/375/110000071480383.jpg"
+    },
+    {
+        "id":5,
+        "title":"Coffee Machine",
+        "price":600,
+        "image":"https://www.fakir.com.tr/aroma-master-kahve-makinesi-fakir-2068-30-B.jpg"
+    },
+    {
+        "id":6,
+        "title":"TV",
+        "price":1100,
+        "image":"https://statics.vestel.com.tr/productimages/20276162_r1_1000_1000.jpg"
+    },
+    {
+        "id":7,
+        "title":"Book",
+        "price":50,
+        "image":"https://cdn.cimri.io/image/1200x1200/edebiyatkitapeitlerivefiyat_126525385.jpg"
+    },
+    {
+        "id":8,
+        "title":"Laptop",
+        "price":1500,
+        "image":"https://iis-akakce.akamaized.net/p.x?%2F%2Fplatincdn%2Ecom%2F3809%2Fpictures%2Fthumb%2F350X%2DLHIBIYUQMC152023192729%5F110000275192143%2Ejpg"
+    }
+
+]
