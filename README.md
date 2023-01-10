@@ -1,3 +1,5 @@
+# Cart React App using Context
+![cart-app](https://user-images.githubusercontent.com/100023813/211632801-686810bd-09d1-48fd-8355-993925a79227.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
